@@ -33,7 +33,7 @@
 
 ## 📸 Screenshots | 游戏截图
 
-🚧 [Screenshots coming soon!](Screenshots) 🚧
+🚧 [Screenshots coming soon!](2_Screenshots) 🚧
 
 ## 🔧 Technologies Used | 技术栈
 
