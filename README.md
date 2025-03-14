@@ -1,7 +1,5 @@
 # Computergraphics-Vulkan-TheDarkKnightsQuestforJustice-Demo🚀🎮
 
----
-
 # 🦇 The Dark Knight's Quest for Justice - Demo 🦇
 
 ![Vulkan](https://img.shields.io/badge/Vulkan-API-red) ![C++](https://img.shields.io/badge/C++-17-blue) ![GameDev](https://img.shields.io/badge/GameDev-3D-green)
@@ -10,7 +8,7 @@
 
 **The Dark Knight's Quest for Justice** is a **Vulkan-powered 3D game** developed in **C++**. In this game, you play as **The Dark Knight**, on a mission to **find the Joker 🤡** and assist **Batman 🦇** in restoring justice!
 
-Explore different **vehicles 🚗, characters 🦸, and immersive environments 🌃**, featuring:
+🔹 Explore different **vehicles 🚗, characters 🦸, and immersive environments 🌃**, featuring:
 - **A futuristic city parking lot 🏙️**
 - **A space station 🛰️**
 - **A variety of real-time lighting effects 💡**
@@ -21,8 +19,6 @@ Explore different **vehicles 🚗, characters 🦸, and immersive environments �
 - **Model & Texture Management**: Understanding **model structures**, texture mapping, and descriptor pools
 - **Advanced Shading Techniques**: Realistic **Blinn-Phong** shading, **Toon Shader** for cartoon effects, **Skybox** for environment rendering, and **Emissive materials** for glowing effects
 - **Text Rendering**: UI elements like mission prompts, key hints, and dialogues
-
----
 
 ## 🎮 Gameplay Features | 游戏玩法特色
 
@@ -35,13 +31,9 @@ Explore different **vehicles 🚗, characters 🦸, and immersive environments �
 - **Easily expand** the game by adding new models, materials, and environments
 - **Modular architecture** allows for future levels, special effects, or even multiplayer mode!
 
----
-
 ## 📸 Screenshots | 游戏截图
 
-🚧 _Screenshots coming soon!_ 🚧
-
----
+🚧 [Screenshots coming soon!](Screenshots) 🚧
 
 ## 🔧 Technologies Used | 技术栈
 
@@ -52,8 +44,7 @@ Explore different **vehicles 🚗, characters 🦸, and immersive environments �
 | Shading & Lighting | Blinn-Phong, Toon Shader, Skybox 🌌 |
 | UI & Text Rendering | Custom Text Shader 🔠 |
 | Physics & Interactions | Custom Mechanics ⚙️ |
-
----
+- This website you can download what models and textures you want [🔥rigmodels.com](https://rigmodels.com/index.php#google_vignette)
 
 ## 📥 Installation & Run | 安装与运行
 
@@ -71,13 +62,9 @@ make
 - CMake & Make
 - GLFW, GLM, stb_image
 
----
-
 ## 📜 License | 许可证
 
 📝 MIT License - Free to modify and use for educational purposes!
-
----
 
 ## 🤝 Contributors | 贡献者
 
@@ -88,4 +75,3 @@ make
 
 🔥 **Join the Quest!** Help Batman catch the Joker and **restore justice!** 🦇
 
----
