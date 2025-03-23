@@ -2,8 +2,8 @@
 
 # 🦇 The Dark Knight's Quest for Justice - Demo 🦇
 
-![Vulkan](https://img.shields.io/badge/Vulkan-API-red) ![C++](https://img.shields.io/badge/C++-17-blue) ![GameDev](https://img.shields.io/badge/GameDev-3D-green)
-[🔥The video link (in Chinese)]([https://rigmodels.com/index.php#google_vignette](https://www.bilibili.com/video/BV1iAQrYCENW/?spm_id_from=333.1387.upload.video_card.click&vd_source=d0fd73e6eef78da46ca8e81c03dcb42a))
+![Vulkan](https://img.shields.io/badge/Vulkan-API-red) ![C++](https://img.shields.io/badge/C++-17-blue) ![GameDev](https://img.shields.io/badge/GameDev-3D-green)  
+[🔥The video link (in Chinese) - 视频地址](https://www.bilibili.com/video/BV1iAQrYCENW/?spm_id_from=333.1387.upload.video_card.click&vd_source=d0fd73e6eef78da46ca8e81c03dcb42a)
 
 ## 🌟 Introduction | 项目介绍
 
